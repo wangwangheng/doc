@@ -8,15 +8,15 @@
 
 **相关资料：**
 
->[RESTful百度百科](http://baike.baidu.com/link?url=0FWilArYrZC3nMbnyIz-f7rVeANtkM_obfoIpazN9D8rQRsl4ChD2pmJLZ8aOGI3Cxvpfra0AkaPfGNGGVR3oq)
+* [RESTful百度百科](http://baike.baidu.com/link?url=0FWilArYrZC3nMbnyIz-f7rVeANtkM_obfoIpazN9D8rQRsl4ChD2pmJLZ8aOGI3Cxvpfra0AkaPfGNGGVR3oq)
 
-> [RESTful API设计](http://www.csdn.net/article/2013-06-13/2815744-RESTful-API)
+* [RESTful API设计](http://www.csdn.net/article/2013-06-13/2815744-RESTful-API)
 
-> [Retrofit 原理](http://www.cnblogs.com/angeldevil/p/3757335.html)
+* [Retrofit 原理](http://www.cnblogs.com/angeldevil/p/3757335.html)
 
-> [Retrofit 简单使用](http://www.tuicool.com/articles/NnuIva)
+* [Retrofit 简单使用](http://www.tuicool.com/articles/NnuIva)
 
-> [Retrofit Github工程地址](https://github.com/square/retrofit.git)
+* [Retrofit Github工程地址](https://github.com/square/retrofit.git)
 
 Retrofit   和Java领域的ORM概念类似， ORM把结构化数据转换为Java对象，而Retrofit 把REST API返回的数据转化为Java对象方便操作。同时还封装了网络代码的调用。
 
