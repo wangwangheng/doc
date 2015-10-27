@@ -28,7 +28,11 @@ signingConfigs {
 * 这一步也可以在图形界面中完成，具体步骤如下：
 
 ```
-File -> Project Structure -> 选择具体的Moudle -> 选择signing选项卡 -> 底部可以选择添加或者删除配置,右侧可以配置具体的配置内容
+File -> 
+Project Structure -> 
+选择具体的Moudle -> 
+选择signing选项卡 -> 
+底部可以选择添加或者删除配置,右侧可以配置具体的配置内容
 ```
 
 ## 2、buildTypes(构建类型配置)
@@ -63,7 +67,11 @@ buildTypes {
 ```
 * 这一步也可以在图形界面中完成，具体步骤如下：
 ```
-File -> Project Structure -> 选择具体的Moudle -> 选择Build Type选项卡 -> 底部可以选择添加或者删除配置,右侧可以配置具体的配置内容
+File -> 
+Project Structure -> 
+选择具体的Moudle -> 
+选择Build Type选项卡 -> 
+底部可以选择添加或者删除配置,右侧可以配置具体的配置内容
 ```
 
 ## 3、在项目根文件夹下生成保存要替换文件的目录
