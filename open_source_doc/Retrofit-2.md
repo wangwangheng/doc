@@ -7,6 +7,7 @@
 **Retrofit**是一套RESTful架构的Android(Java)客户端实现，基于注解，提供JSON to POJO(Plain Ordinary Java Object,简单Java对象)，POJO to JSON，网络请求(POST，GET,PUT，DELETE等)封装。
 
 **相关资料：**
+
 >[RESTful百度百科](http://baike.baidu.com/link?url=0FWilArYrZC3nMbnyIz-f7rVeANtkM_obfoIpazN9D8rQRsl4ChD2pmJLZ8aOGI3Cxvpfra0AkaPfGNGGVR3oq)
 > [RESTful API设计](http://www.csdn.net/article/2013-06-13/2815744-RESTful-API)
 > [Retrofit 原理](http://www.cnblogs.com/angeldevil/p/3757335.html)
